@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Loth</h1>
-<h3 align="center">i'm a .NET Developer</h3>
+<h3 align="center">.NET Developer</h3>
 
 - 🔭 I’m currently working at **Montreal Oficial.**
 
