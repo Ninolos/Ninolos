@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan Loth</h1>
 <h3 align="center">.NET Developer</h3>
 
-- 🔭 I’m currently working at **Montreal Oficial.**
+- 🔭 I’m currently working with .NET/C#, Angular and jQuery at **Montreal Oficial.**
 
 - 🌱 I’m currently learning **Angular, .NET Core and Bootstrap**
 
