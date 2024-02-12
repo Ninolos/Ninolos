@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with .NET/C#, Angular and jQuery at **Montreal Oficial.**
 
-- 🌱 I’m currently learning **Angular, .NET Core and Bootstrap**
+- 🌱 I’m currently learning **Angular and .NET Core**
 
 - 📫 How to reach me **ninoloth@gmail.com**
 
